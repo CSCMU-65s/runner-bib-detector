@@ -565,7 +565,7 @@ Data/output.mp4
 Data/demo_img*.JPG
 
 *.DS_Store
-
+*.tmp.driveupload/**/*
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio

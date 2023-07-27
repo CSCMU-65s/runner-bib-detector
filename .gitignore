@@ -11,3 +11,6 @@ __pycache__/
 # Files to ignore
 Data/output.mp4
 Data/demo_img*.JPG
+
+*.DS_Store
+
